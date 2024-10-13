@@ -1,1 +1,1 @@
-# social-distancing-monitoring-system
+# Social Distancing Monitoring System
