@@ -9,7 +9,7 @@ from ..base import Detector
 from ..build import DETECTOR_REGISTRY
 
 # Path to the model weights
-model_path = "C:\\Users\\ASUS\\IU (Computer Vision Project)\\face_detection\\dsfd\\WIDERFace_DSFD_RES152.pth"
+model_path = "../../models/WIDERFace_DSFD_RES152.pth"
 
 # Register the DSFDDetector class in the DETECTOR_REGISTRY
 @DETECTOR_REGISTRY.register_module
